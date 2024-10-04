@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Sofiane
+- 👋 Hi, I’m Sofiane, born and raised in Paris, France. After gaining experience in management control, I decided to pivot towards the data field to become a data analyst. My background in Finance has equipped me with a solid foundation in business intelligence, which I now leverage to transform data into actionable insights.
+  
 - 👀 I’m interested in Data Analytics and transformation of data into actionable insights to assist in business decision-making.
+  
 - 🌱 I’m currently learning data analysis and visualization (Advanced SQL, Python for Data Science, Power BI, Tableau, Analytics Engineering, statistics and more).
+  
 - 💞️ I’m looking to collaborate on data valorization projects to address business challenges.
+  
 - 📫 How to reach me: sofiane.ayoub33@gmail.com
 
 <!---
