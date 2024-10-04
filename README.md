@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in Data Analytics and transformation of data into actionable insights to assist in business decision-making.
   
-- 🌱 I’m currently learning data analysis and visualization (Advanced SQL, Python for Data Science, Power BI, Tableau, Analytics Engineering, statistics and more).
+- 🌱 I’m currently learning data analysis and visualization (Advanced SQL, Python for Data Science, Power BI, Tableau, Analytics Engineering, Statistics and more).
   
 - 💞️ I’m looking to collaborate on data valorization projects to address business challenges.
   
