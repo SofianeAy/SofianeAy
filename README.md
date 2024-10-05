@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sofiane, born and raised in Paris, France. After gaining experience in management control, I decided to pivot towards the data field to become a data analyst. My background in Corporate Finance has equipped me with a solid foundation in Business Intelligence, which I now leverage to transform data into actionable insights.
+- 👋 Hi, I’m Sofiane, born and raised in Paris, France. After gaining experience in Management Control, I decided to pivot towards the data field to become a Data Analyst. My background in Corporate Finance has equipped me with a solid foundation in Business Intelligence, which I now leverage to transform data into actionable insights.
   
 - 👀 I’m interested in Data Analytics and transformation of data into actionable insights to assist in business decision-making.
   
